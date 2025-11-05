@@ -1,0 +1,29 @@
+header {
+    background-color: yellow;
+    text-align: center;
+}
+
+body {
+    background-image: url("ice.jpg");
+    background-size: cover;
+}
+
+a {
+    background-color: aqua;
+    text-decoration: none;
+}
+
+a#header {
+    background-color: white;
+    text-decoration: none;
+    color: red;
+}
+
+a.body-link {
+    background-color: black;
+    color: white;
+}
+
+*.red-text {
+    color: red;
+}
